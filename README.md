@@ -1,1 +1,12 @@
 # machine-learning
+- movie recommended system
+  - python
+  - Pycharm project
+  - django web based
+    - sudo pip instal django
+    - django-admin startproject test_server
+    - python manage.py runserver 8080
+      - generate app: python manage.py startapp myapp
+      - add template and static folder
+    - python manage.py makeimgrations
+    - python manage.py mgrate
